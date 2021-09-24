@@ -4,7 +4,7 @@
 </p>
 
 ## Sobre   
-Este projeto foi desenvolvido para o 10º desafio da comunidade **[Codelândia](https://discord.com/invite/QevDJqCzaY)**. O objetivo dele era **praticar Front-end** desenvolvendo um simples Naped  **semântico** e **responsivo**.
+Este projeto foi desenvolvido para o 10º desafio da comunidade **[Codelândia](https://discord.com/invite/QevDJqCzaY)**. O objetivo dele era **praticar Front-end** desenvolvendo um simples Naped **responsivo**.
 
 (O Naped  pode ser uma fonte das tuas informações sobre o mundo nerd e outros assuntos relacionados.)
 
